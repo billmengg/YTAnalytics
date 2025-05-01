@@ -1,0 +1,503 @@
+Cities,City name,Views,Watch time (hours),Average view duration
+Total,,12100212,138067.1021,0:00:41
+0x89c24fa5d33f083b:0xc80b8f06e177fe62,"New York, NY, USA",118573,1405.4763,0:00:42
+0x47d8a00baf21de75:0x52963a5addd52a99,"London, UK",100660,1117.5309,0:00:39
+0x6b129838f39a743f:0x3017d681632a850,"Sydney NSW, Australia",97766,1034.8371,0:00:38
+0x80c2c75ddc27da13:0xe22fdf6f254608f4,"Los Angeles, CA, USA",84842,924.5861,0:00:39
+0x6ad646b5d2ba4df7:0x4045675218ccd90,"Melbourne VIC, Australia",70696,778.1431,0:00:39
+0x880e2c3cd0f4cbed:0xafe0a6ad09c0c000,"Chicago, IL, USA",59652,619.718,0:00:37
+0x3397ba0942ef7375:0x4a9a32d9fe083d40,"Quezon City, Metro Manila, Philippines",59324,658.5476,0:00:39
+0x471ecc669a869f01:0x72f0be2a88ead3fc,"Warsaw, Poland",58669,565.3729,0:00:34
+0x89d4cb90d7c63ba5:0x323555502ab4c477,"Toronto, ON, Canada",57422,647.8239,0:00:40
+0x6b91579aac93d233:0x402a35af3deaf40,"Brisbane QLD, Australia",55288,564.1737,0:00:36
+0x8640b8b4488d8501:0xca0d02def365053b,"Houston, TX, USA",53617,550.9274,0:00:36
+0x31da1767b42b8ec9:0x400f7acaedaa420,Singapore,53535,611.8397,0:00:41
+0x46b54afc73d4b0c9:0x3d44d6cc5757cf4c,"Moscow, Russia",46240,395.3378,0:00:30
+0x5490102c93e83355:0x102565466944d59a,"Seattle, WA, USA",45403,443.3472,0:00:35
+0x864c19f77b45974b:0xb9ec9ba4f647678f,"Dallas, TX, USA",44314,430.7214,0:00:34
+0x47e66e1f06e2b70f:0x40b82c3688c9460,"Paris, France",42926,395.1046,0:00:33
+0x3397ca03571ec38b:0x69d1d5751069c11f,"Manila, Metro Manila, Philippines",35846,387.8259,0:00:38
+0x88f5045d6993098d:0x66fede2f990b630b,"Atlanta, GA, USA",34407,350.9565,0:00:36
+0x31cc49c701efeae7:0xf4d98e5b2f1c287d,"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",33126,315.2678,0:00:34
+0x14caa7040068086b:0xe1ccfe98bc01b0d0,"İstanbul, Türkiye",32940,281.5856,0:00:30
+0x872b12ed50a179cb:0x8c69c7f8354a1bac,"Phoenix, AZ, USA",32884,308.7701,0:00:33
+0x2e69f3e945e34b9d:0x5371bf0fdad786a2,"Jakarta, Indonesia",32511,318.238,0:00:35
+0x317529292e8d3dd1:0xf15f5aad773c112b,"Ho Chi Minh City, Vietnam",31927,322.1259,0:00:36
+0x4786c1493f1275e7:0x3cffcd13c6740e8d,"Milan, Metropolitan City of Milan, Italy",30824,277.1274,0:00:32
+0x80c8c45e5468d0ed:0xf98463eab8414b62,"Las Vegas, NV, USA",30563,322.938,0:00:38
+0x80d9530fad921e4b:0xd3a21fdfd15df79,"San Diego, CA, USA",29485,300.4759,0:00:36
+0x537170039f843fd5:0x266d3bb1b652b63a,"Calgary, AB, Canada",28821,276.7625,0:00:34
+0x8644b599a0cc032f:0x5d9b464bd469d57a,"Austin, TX, USA",28404,274.3843,0:00:34
+0x470b939c0970798b:0x400af0f66164090,"Prague, Czechia",28104,275.6577,0:00:35
+0x2a32966cdb47733d:0x304f0b535df55d0,"Perth WA, Australia",26818,277.7407,0:00:37
+0x876b80aa231f17cf:0x118ef4f8278a36d6,"Denver, CO, USA",26695,242.0236,0:00:32
+0x48670e80ea27ac2f:0xa00c7a9973171a0,"Dublin, Ireland",26694,269.8448,0:00:36
+0x47a84e373f035901:0x42120465b5e3b70,"Berlin, Germany",26102,255.8102,0:00:35
+0x311d6032280d61f3:0x10100b25de24820,"Bangkok, Thailand",25360,251.9695,0:00:35
+0x4cc91a541c64b70d:0x654e3138211fefef,"Montreal, QC, Canada",25011,284.1138,0:00:40
+0x89c6b7d8d4b54beb:0x89f514d88c3e58c1,"Philadelphia, PA, USA",24400,264.2008,0:00:38
+0x4741c334d1d4cfc9:0x400c4290c1e1160,"Budapest, Hungary",23945,245.2248,0:00:36
+0x33a999258dcd2dfd:0x4c34030cdbd33507,"Cebu City,  Cebu, Philippines",23803,254.1009,0:00:38
+0x80859a6d00690021:0x4a501367f076adff,"San Francisco, CA, USA",22122,227.0915,0:00:36
+0x3135ab9bd9861ca1:0xe7887f7b72ca17a9,"Hanoi, Vietnam",21892,219.2039,0:00:36
+0x94ce448183a461d1:0x9ba94b08ff335bae,"São Paulo, State of São Paulo, Brazil",21078,219.4719,0:00:37
+0x465f763119640bcb:0xa80d27d3679d7766,"Stockholm, Sweden",20563,208.6509,0:00:36
+0x9662c5410425af2f:0x8475d53c400f0931,"Santiago, Santiago Metropolitan Region, Chile",19581,223.6207,0:00:41
+0x87523d9488d131ed:0x5b53b7a0484d31ca,"Salt Lake City, UT, USA",19148,168.0893,0:00:31
+0x1dcc500f8826eed7:0x687fe1fc2828aa87,"Cape Town, South Africa",19048,186.2096,0:00:35
+0x3403fefda2ea2807:0x486db43574f494da,Hong Kong,18382,208.97,0:00:40
+0x476d079e5136ca9f:0xfdc2e58a51a25b46,"Vienna, Austria",18371,193.674,0:00:37
+0x6d0d47fb5a9ce6fb:0x500ef6143a29917,"Auckland, New Zealand",18131,194.2303,0:00:38
+0x89e3652d0d3d311b:0x787cbf240162e8a0,"Boston, MA, USA",18009,190.5244,0:00:38
+0x865c58af04d00eaf:0x856e13b10a016bc,"San Antonio, TX, USA",17875,180.6323,0:00:36
+0x47bd096f477096c5:0x422435029b0c600,"Frankfurt am Main, Germany",17773,160.5167,0:00:32
+0x88541fc4fc381a81:0x884650e6bf43d164,"Charlotte, NC, USA",17706,178.262,0:00:36
+0x4696378cc74a65ed:0x6dc7673fab848eff,"St Petersburg, Russia",17349,153.3932,0:00:31
+0x809ac672b28397f9:0x921f6aaa74197fdb,"Sacramento, CA, USA",17337,167.0042,0:00:34
+0x53a0224580deff23:0x411fa00c4af6155d,"Edmonton, AB, Canada",16614,166.9299,0:00:36
+0x40b1f93abf3cad4f:0xac0632e37c9ca628,"Bucharest, Romania",16145,185.1457,0:00:41
+0x47c63fb5949a7755:0x6600fd4cb7c0af8d,"Amsterdam, Netherlands",16106,158.3492,0:00:35
+0x471644c0354e18d1:0xb46bb6b576478abf,"Kraków, Poland",15728,160.2096,0:00:36
+0x4652533c5c803d23:0x4dd7edde69467b8,"Copenhagen, Denmark",15605,150.1878,0:00:34
+0x88e773d8fecdbc77:0xac3b2063ca5bf9e,"Orlando, FL, USA",15579,156.9487,0:00:36
+0x54950b0b7da97427:0x1c36b9e6f6d18591,"Portland, OR, USA",15419,151.4006,0:00:35
+0x14d347d520732db1:0xbdc57b0c0842b8d,"Ankara, Türkiye",15093,134.2425,0:00:32
+0x6ab735c7c526b33f:0x4033654628ec640,"Adelaide SA, Australia",14994,151.5349,0:00:36
+0x32f96d9f519e327f:0xb53a24589f79c573,"Davao City, Davao del Sur, Philippines",14830,156.2928,0:00:37
+0x52b333909377bbbd:0x939fc9842f7aee07,"Minneapolis, MN, USA",14517,136.028,0:00:33
+0x88d9b0a20ec8c111:0xff96f271ddad4f65,"Miami, FL, USA",14448,143.255,0:00:35
+0x470444d2ece10ab7:0xa4ea31980334bfd1,"Poznań, Poland",14429,139.546,0:00:34
+0x85ce0026db097507:0x54061076265ee841,"Mexico City, CDMX, Mexico",14308,146.3233,0:00:36
+0x808fcae48af93ff5:0xb99d8c0aca9f717b,"San Jose, CA, USA",14136,149.8148,0:00:38
+0x8824ca0110cb1d75:0x5776864e35b9c4d2,"Detroit, MI, USA",13467,130.815,0:00:34
+0x4cce05b25f5113af:0x8a6a51e131dd15ed,"Ottawa, ON, Canada",13353,133.4841,0:00:35
+0x883889c1b990de71:0xe43266f8cfb1b533,"Columbus, OH, USA",13276,132.2937,0:00:35
+0x548673f143a94fb3:0xbb9196ea9b81f38b,"Vancouver, BC, Canada",13245,148.2489,0:00:40
+0xd422997800a3c81:0xc436dec1618c2269,"Madrid, Spain",13164,127.7099,0:00:34
+0x89c803aed6f483b7:0x44896a84223e758,"Baltimore, MD, USA",13057,138.1199,0:00:38
+0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0,"Bengaluru, Karnataka, India",12223,113.9702,0:00:33
+0x470fe9c2d4b58abf:0xb70956aec205e0f5,"Wrocław, Poland",11110,104.4587,0:00:33
+0x3f8e00491ff3dcd9:0xf0b3697c567024bc,"Tehran, Tehran Province, Iran",10984,85.1211,0:00:27
+0x87ad8a547ef8d281:0x33a21274d14f3a9d,"Oklahoma City, OK, USA",10898,99.4824,0:00:32
+0x89ac5a2f9f51e0f7:0x6790b6528a11f0ad,"Raleigh, NC, USA",10546,95.7783,0:00:32
+0x88e5b716f1ceafeb:0xc4cd7d3896fcc7e2,"Jacksonville, FL, USA",10458,107.6016,0:00:37
+0x40aa8682cb317bf5:0x400a01269bf5e60,"Sofia, Bulgaria",10392,134.8553,0:00:46
+0x1e95619cbec65033:0xf66262b07a847b4c,"Pretoria, South Africa",10127,105.9152,0:00:37
+0x8864ec3213eb903d:0x7d3fb9d0a1e9daa0,"Nashville, TN, USA",10067,96.4216,0:00:34
+0x8c03686fe268196f:0xad6b7f0f5c935adc,"San Juan, Puerto Rico",9964,96.9459,0:00:35
+0x132f6196f9928ebb:0xb90f770693656e38,"Rome, Metropolitan City of Rome Capital, Italy",9805,93.4401,0:00:34
+0x479e75f9a38c5fd9:0x10cb84a7db1987d,"Munich, Germany",9573,94.7036,0:00:35
+0x864e6e122dc807ad:0xa4af8bf8dd69acbd,"Fort Worth, TX, USA",9468,91.1449,0:00:34
+0x3396f286eed2e61f:0x3ded82248ad9b436,"Angeles, Pampanga, Philippines",9356,99.8534,0:00:38
+0x9105c5f619ee3ec7:0x14206cb9cc452e4a,"Lima, Peru",9152,97.947,0:00:38
+0x14a1bd1f067043f1:0x2736354576668ddd,"Athens, Greece",9134,95.2415,0:00:37
+0x52ea73fbf91a2b11:0x2b2a1afac6b9ca64,"Winnipeg, MB, Canada",9120,94.8131,0:00:37
+0x886b50ffa7796a03:0xd68e9df640b9ea7c,"Indianapolis, IN, USA",9008,84.3887,0:00:33
+0x89b7c6de5af6e45b:0xc2524522d4885d2a,"Washington, DC, USA",8997,89.2812,0:00:35
+0x4765d692c902cc39:0x3a45249628fbc28a,"Zagreb, Croatia",8926,99.731,0:00:40
+0x4870942d1b417173:0xca81fef0aeee7998,"Birmingham, UK",8707,90.2243,0:00:37
+0x151d4ca6193b7c1f:0xc1fb72a2c0963f90,"Tel Aviv-Yafo, Israel",8578,81.1028,0:00:34
+0x87c0f75eafe99997:0x558525e66aaa51a2,"Kansas City, MO, USA",8516,78.4714,0:00:33
+0x88c2b782b3b9d1e1:0xa75f1389af96b463,"Tampa, FL, USA",8094,78.5197,0:00:34
+0x3397cf4a54fe3001:0x2fae7af0a998d2ad,"Taguig, Metro Manila, Philippines",7893,84.2615,0:00:38
+0x9bde559108a05b:0x50dc426c672fd24e,"Rio de Janeiro, State of Rio de Janeiro, Brazil",7538,77.9498,0:00:37
+0x4716ce2336a1ccd1:0xb9af2a350559fabb,"Katowice, Poland",7323,63.6232,0:00:31
+0x3397b1b519841b5f:0x5e770e225042d1a,"Caloocan, Metro Manila, Philippines",7302,79.4192,0:00:39
+0x8e3f9bfd2da6cb29:0x239d635520a33914,"Bogotá, Bogota, Colombia",7047,65.8783,0:00:33
+0x3397d252b84f3c11:0x38b0f2e1f833e8df,"Imus, Cavite, Philippines",6984,69.6059,0:00:35
+0x47b161837e1813b9:0x4263df27bd63aa0,"Hamburg, Germany",6949,70.7652,0:00:36
+0x87220addd309837b:0xc0d3f8ceb8d9f6fd,"Albuquerque, NM, USA",6863,61.5317,0:00:32
+0x475a7aa3d7b53fbd:0x1db8645cf2177ee4,"Belgrade, Serbia",6769,78.6723,0:00:41
+0x5d96925be2b18aab:0xe606927864a1847f,"Ulaanbaatar, Mongolia",6637,57.6791,0:00:31
+0x3e5f43496ad9c645:0xbde66e5084295162,Dubai - United Arab Emirates,6618,68.7033,0:00:37
+0x33aee56fe538d781:0xe8250cd6bc30a488,"Iloilo City, Iloilo, Philippines",6504,67.7898,0:00:37
+0x46dd93fb5c6408f5:0x400d18c70e9dc40,"Vilnius, Vilnius City Municipality, Lithuania",6486,69.319,0:00:38
+0x3397bf0c8d8310c5:0x34dc8e5a7fbf80a3,"Antipolo,  Rizal, Philippines",6469,71.2493,0:00:39
+0x30c1949e223e196b:0x56fbd271f8080bb4,"Yangon, Myanmar (Burma)",6452,58.3392,0:00:32
+0x40d4cf4ee15a4505:0x764931d2170146fe,"Kyiv, Ukraine,",6428,62.6768,0:00:35
+0x12a49816718e30e5:0x44b0fb3d4f47660a,"Barcelona, Spain",6369,67.1645,0:00:37
+0x32fff2d9810e9e81:0x2edcd5b84a6de2a2,"Cagayan de Oro, Misamis Oriental, Philippines",6334,64.4416,0:00:36
+0x89bac1e8fc1527a7:0x4161080a32e0173,"Virginia Beach, VA, USA",6297,59.0924,0:00:33
+0x47bf259169ab2fe5:0x42760fc4a2a77f0,"Cologne, Germany",6061,60.487,0:00:35
+0x103b8b2ae68280c1:0xdc9e87a367c3d9cb,"Lagos, Nigeria",6017,68.6484,0:00:41
+0x3397c7dc88f7b24f:0x4a592b2b4b34fd89,"Pasig, Metro Manila, Philippines",5995,63.9492,0:00:38
+0x14bbd862a762cacd:0x628cbba1a59ce8fe,"İzmir, Türkiye",5963,48.7617,0:00:29
+0x476c89360aca6197:0x631f9b82fd884368,"Bratislava, Slovakia",5873,52.1218,0:00:31
+0x7c00183b8cc3464d:0x4b28f55ff3a7976c,"Honolulu, HI, USA",5868,64.7257,0:00:39
+0x3755b8b087026b81:0x8fa563bbdd5904c2,"Dhaka, Bangladesh",5697,57.3919,0:00:36
+0x2e68e6398252477f:0x146a1f93d3e815b2,"Bandung, Bandung City, West Java, Indonesia",5665,53.958,0:00:34
+0x47900b9749bea219:0xe66e8df1e71fdc03,"Zürich, Switzerland",5623,55.2131,0:00:35
+0x3e2f03890d489399:0xba974d1c98e79fd5,Riyadh Saudi Arabia,5567,58.3264,0:00:37
+0x95bcca3b4ef90cbd:0xa0b3812e88e88e87,"Buenos Aires, Argentina",5564,63.7902,0:00:41
+0x464f8e67966c073f:0x4019078290e7c40,"Gothenburg, Sweden",5504,55.582,0:00:36
+0x86e73f8bc5fe3b69:0xe39184e3ab9d0222,"El Paso, TX, USA",5472,50.5814,0:00:33
+0x471bcb24754556af:0xcb7cae639b21dbac,"Łódź, Poland",5268,50.2959,0:00:34
+0x487a4d4c5226f5db:0xd9be143804fe6baa,"Manchester, UK",5252,56.0259,0:00:38
+0x2dd7fbf8381ac47f:0x3027a76e352be40,"Surabaya, East Java, Indonesia",5196,53.3563,0:00:36
+0x8834f16f48068503:0x8df915a15aa21b34,"Pittsburgh, PA, USA",5063,48.0258,0:00:34
+0x88690b1ab35bd511:0xd4d3b4282071fd32,"Louisville, KY, USA",5062,43.4513,0:00:30
+0x87d8b4a9faed8ef9:0xbe39eaca22bbe05b,"St. Louis, MO, USA",5054,48.6701,0:00:34
+0x882b469fe76b05b7:0x3146cbed75966db,"Mississauga, ON, Canada",4979,55.2915,0:00:39
+0x87938dc8b50cfced:0x46424d4fae37b604,"Omaha, NE, USA",4934,42.7155,0:00:31
+0x47f4ea516ae88797:0x408ab2ae4bb21f0,"Lyon, France",4787,41.8137,0:00:31
+0x3397d2407b04433f:0x779154cd6b3d2d4c,"Bacoor, Cavite, Philippines",4766,53.6968,0:00:40
+0xd19331a61e4f33b:0x400ebbde49036d0,"Lisbon, Portugal",4757,56.3674,0:00:42
+0x3a5265ea4f7d3361:0x6e61a70b6863d433,"Chennai, Tamil Nadu, India",4754,46.5228,0:00:35
+0x89b615f166fcc957:0x9da316eb11e3d5b,"Ashburn, VA, USA",4743,44.951,0:00:34
+0x46fd731c14d4fa6f:0x9bb9fbf163b7be8d,"Gdańsk, Poland",4688,45.7241,0:00:35
+0x8713412ea1e6d22b:0x418eeb92f5e86b13,"Colorado Springs, CO, USA",4601,40.7779,0:00:31
+0x3397d5b87c111e25:0xab8cb698f840321f,"Dasmariñas, Cavite, Philippines",4593,48.8692,0:00:38
+0x4712943ac03f5111:0x400af0f6614b1b0,"Brno, Czechia",4593,44.5006,0:00:34
+0x3397c90264a0ed01:0x2b066ed57830cace,"Makati, Metro Manila, Philippines",4531,48.6231,0:00:38
+0x3391a16879def13f:0x8edef534be3a75c0,"Baguio, Benguet, Philippines",4468,55.4187,0:00:44
+0x47c5b7605f54c47d:0x5229bbac955e4b85,"Rotterdam, Netherlands",4462,45.5504,0:00:36
+0x14a838f41428e0ed:0x9bae715b8d574a9,"Thessaloniki, Greece",4399,45.5393,0:00:37
+0x40440cd7e64f626b:0x61d084ede2576ea3,"Tbilisi, Georgia",4346,46.2878,0:00:38
+0x4887b800a5982623:0x64f2147b7ce71727,"Edinburgh, UK",4343,45.0099,0:00:37
+0x3397ce5df9175d09:0x2d041bbb0b2842e5,"Parañaque, Metro Manila, Philippines",4321,46.7464,0:00:38
+0x3be7c6306644edc1:0x5da4ed8f8d648c69,"Mumbai, Maharashtra, India",4278,39.0317,0:00:32
+0x46eecfb0e5073ded:0x400cfcd68f2fe30,"Riga, Latvia",4244,44.16,0:00:37
+0x3b080d514abec6bf:0xbd582caa5844192,"Kochi, Kerala, India",4123,35.0826,0:00:30
+0x357ca28b61c565cd:0x858aedb4e4ea83eb,"Seoul, South Korea",4076,38.3596,0:00:33
+0x390d047309fff32f:0xfc5606ed1b5d46c3,"Delhi, India",4031,36.0878,0:00:32
+0x33aed1aede61785b:0xea7972541b89f76b,"Bacolod, Negros Occidental, Philippines",3833,40.9458,0:00:38
+0x488815562056ceeb:0x71e683b805ef511e,"Glasgow, UK",3763,38.2498,0:00:36
+0x15c3d01fb1137e59:0xe059579737b118db,Jeddah Saudi Arabia,3756,38.3991,0:00:36
+0x880502d7578b47e7:0x445f1922b5417b84,"Milwaukee, WI, USA",3736,39.8174,0:00:38
+0x80dca6df7ff47dbb:0xf7a1d705135e0ae8,"Riverside, CA, USA",3702,41.6531,0:00:40
+0x8830ef2ee3686b2d:0xed04cb55f7621842,"Cleveland, OH, USA",3683,33.6554,0:00:32
+0x882ef20ea88d9b0b:0x28c7d7699a056b95,"London, ON, Canada",3680,37.925,0:00:37
+0x4799db34c1ad8fd3:0x79d5c11c7791cfe4,"Stuttgart, Germany",3648,33.3804,0:00:32
+0x5485dc034d3fa75b:0xd28b4898abd598e0,"Surrey, BC, Canada",3646,39.3098,0:00:38
+0x151b5fb85d7981af:0x631c30c0f8dc65e8,"Amman, Jordan",3642,33.2944,0:00:32
+0x80945de1549e4e9d:0x7b12406449a3b811,"Fresno, CA, USA",3610,32.6695,0:00:32
+0x3397ce0835972b6f:0xff33295d281774b,"Las Piñas, Metro Manila, Philippines",3606,39.6252,0:00:39
+0x3109513dc76a6be3:0x9c010ee85ab525bb,"Phnom Penh, Cambodia",3556,41.6298,0:00:42
+0x888911df5885bfd3:0x25507409eaba54ce,"Birmingham, AL, USA",3470,32.0132,0:00:33
+0x3397afa422693581:0x981101434383975d,"San Jose del Monte City, Bulacan, Philippines",3394,32.8566,0:00:34
+0x33bd63655ce077d3:0x39dd1f59c6edaced,"Calamba,  Laguna, Philippines",3351,35.2292,0:00:37
+0x47490c1f916c0b8b:0xbbc601c331f148b,"Cluj-Napoca, Romania",3282,34.5849,0:00:37
+0x80dcd6f98055e867:0x1ab89ab9a2bb160,"Anaheim, CA, USA",3273,32.3929,0:00:35
+0x884051b1de3821f9:0x69fb7e8be4c09317,"Cincinnati, OH, USA",3234,29.6337,0:00:32
+0x4871836681b3d861:0x8ee4b22e4b9ad71f,"Bristol, UK",3215,32.5415,0:00:36
+0x94dce35351cdb3dd:0x6d2f6ba5bacbe809,"Curitiba, State of Paraná, Brazil",3172,31.7597,0:00:36
+0x882c986c27de778f:0x2b6aee56d8df0e21,"Hamilton, ON, Canada",3116,32.552,0:00:37
+0x86d665410b2ced2b:0x73c32d384d16c715,"Tucson, AZ, USA",3096,29.4851,0:00:34
+0x47a6f818200f2c73:0x93df80d2b9b4f552,"Leipzig, Germany",3085,28.582,0:00:33
+0x487adf8a647060b7:0x42dc046f3f176e01,"Liverpool, UK",3073,29.4973,0:00:34
+0x1e950c68f0406a51:0x238ac9d9b1d34041,"Johannesburg, South Africa",3035,29.3381,0:00:34
+0x47c2d579b3256e11:0x40af13e81646360,"Lille, France",3020,24.4755,0:00:29
+0x182f1172d84d49a7:0xf7cf0254b297924c,"Nairobi, Kenya",3014,32.9145,0:00:39
+0x882b15eaa5d05abf:0x352d31667cc38677,"Brampton, ON, Canada",2993,32.5395,0:00:39
+0x14583fa60b21beeb:0x79dfb296e8423bba,"Cairo, Cairo Governorate, Egypt",2951,26.4777,0:00:32
+0x6b164ca3b20b34bb:0x400ea6ea7695970,"Canberra ACT, Australia",2927,25.4513,0:00:31
+0x48790aa9fae8be15:0x3e2827f5af06b078,"Sheffield, UK",2876,33.2758,0:00:41
+0x8620a454b2118265:0xdb065be85e22d3b4,"New Orleans, LA, USA",2863,25.588,0:00:32
+0x3bc2bf2e67461101:0x828d43bf9d9ee343,"Pune, Maharashtra, India",2845,24.2516,0:00:30
+0x89d4d5efa0324ca9:0xf73d52812cb23d63,"Markham, ON, Canada",2820,33.0483,0:00:42
+0x39f882db4908f667:0x43e330e68f6c2cbc,"Kolkata, West Bengal, India",2816,26.3868,0:00:33
+0x3bcb99daeaebd2c7:0xae93b78392bafbc2,"Hyderabad, Telangana, India",2814,25.1966,0:00:32
+0x87c08ce427cf3515:0xdc77777b70c31e05,"Kansas City, KS, USA",2803,24.0084,0:00:30
+0x46929499df5616bf:0x400b36d18fc6270,"Tallinn, Estonia",2772,28.9795,0:00:37
+0x872ba7c2c0c592c1:0xd10fc215694e771b,"Mesa, AZ, USA",2723,26.9442,0:00:35
+0x375a5a287f9133ff:0x2bbd1332436bde32,"Guwahati, Assam, India",2687,20.7449,0:00:27
+0x6d322f4863c5ed01:0x500ef8684799945,"Christchurch, New Zealand",2673,22.7864,0:00:30
+0x465305a574c491ff:0xd3a905dfbd4888e5,"Malmö, Sweden",2590,28.7129,0:00:39
+0x935a3d18df9ae275:0x738470e469754a24,"Brasília, Federal District, Brazil",2588,29.6784,0:00:41
+0x48793e4ada64bd99:0x51adbafd0213dca9,"Leeds, UK",2568,27.1353,0:00:38
+0x47c3f68ebfc3887d:0x3eaf448482a88ab8,"Antwerp, Belgium",2496,26.7954,0:00:38
+0x87d57e1eea439745:0xd193f315601ab6fe,"Memphis, TN, USA",2418,21.8719,0:00:32
+0x31cc4d8b932abdc7:0x6e65e085abb091c5,"Shah Alam, Selangor, Malaysia",2406,27.7437,0:00:41
+0x472257141e154061:0x5528ee7af6e8e95f,"Lublin, Poland",2385,24.7992,0:00:37
+0x47b00b514d494f85:0x425ac6d94ac4720,"Hanover, Germany",2304,20.5316,0:00:32
+0x31cc4ececc1c7c97:0x524c8e31e929bc76,"Petaling Jaya, Selangor, Malaysia",2291,27.5882,0:00:43
+0x548677a8219c8373:0xdd0a72738752b169,"Burnaby, BC, Canada",2276,27.6903,0:00:43
+0x5304f6bf47ed992b:0x5049e3295772690,"Saskatoon, SK, Canada",2207,18.2049,0:00:29
+0xa690cacacf2c33:0x5b35795e3ad23997,"Belo Horizonte, State of Minas Gerais, Brazil",2203,22.1976,0:00:36
+0x479f57aeb5b61cd3:0xdd5daf85a98c21b7,"Nuremberg, Germany",2183,20.6594,0:00:34
+0x4cb8968a05db8893:0x8fc52d63f0e83a03,"Québec City, QC, Canada",2170,21.4466,0:00:35
+0x4709cf29101ad6a9:0x421b1cb4288feb0,"Dresden, Germany",2145,19.4276,0:00:32
+0x7c74f21f6c15c2f:0xfd6d6706cb7927aa,"Fortaleza - Zone , Fortaleza - Ceará, Brazil",2136,18.973,0:00:31
+0x876c588622ba2b9b:0x8441e0688ba2e678,"Aurora, CO, USA",2129,20.0294,0:00:33
+0xfdf9084b2b7a773:0xbed14ed8650e2dd3,"Accra, Ghana",2127,27.2045,0:00:46
+0x33bd1b1d4c1cd013:0xe4592a820e411177,"Batangas, Philippines",2105,21.5361,0:00:36
+0x47b8c97bf1465907:0x42760fc4a2a73b0,"Düsseldorf, Germany",2094,20.7627,0:00:35
+0x3e5e440f723ef2b9:0xc7cc2e9341971108,Abu Dhabi - United Arab Emirates,2062,22.741,0:00:39
+0x531c1e40fba53deb:0x354a3296b77b54b1,"Regina, SK, Canada",2055,20.2099,0:00:35
+0x3ae253d10f7a7003:0x320b2e4d32d3838d,"Colombo, Sri Lanka",2002,18.5097,0:00:33
+0x89c25370329a0e1d:0xe1bcdc2adcfee473,"Newark, NJ, USA",1985,22.147,0:00:40
+0x39190483e58107d9:0xc23abe6ccc7e2462,"Lahore, Pakistan",1979,18.4537,0:00:33
+0x3222f5b0540b731f:0xeeacf8c47cbae84b,"Bandar Seri Begawan, Brunei",1972,18.4817,0:00:33
+0x885c162246ce42a9:0x7bea92dac4f534c5,"Knoxville, TN, USA",1969,15.937,0:00:29
+0x80ea6bc8b994cb0d:0x59360c0998fe74c8,"Bakersfield, CA, USA",1962,17.2395,0:00:31
+0x889a4e1df14cf8a9:0x4ce80e5477899e1a,"Mobile, AL, USA",1959,17.4594,0:00:32
+0x33962acd4cf92c7d:0xc07937d0e7fb9b5d,"General Trias, Cavite, Philippines",1951,19.6701,0:00:36
+0x6d38b1fc49e974cb:0xa00ef63a213b470,"Wellington, New Zealand",1949,20.0858,0:00:37
+0x476e3587173065bb:0xfe8e8ad1d2dfdd9b,"Graz, Austria",1942,17.9953,0:00:33
+0x3eb33e06651d4bbf:0x9cf92f44555a0c23,"Karachi, Pakistan",1921,16.4969,0:00:30
+0x54aef172e947b49d:0x9a5b989b36679d9b,"Boise, ID, USA",1900,15.3537,0:00:29
+0x864e62d2e40898d3:0xb5ef6ac1fa05351,"Arlington, TX, USA",1899,20.9929,0:00:39
+0x47aa093800d3a759:0xa95adc4e5f8ac4f3,"Szczecin, Poland",1887,18.5311,0:00:35
+0x3397c949f8efe26d:0x954cef4739256660,"Pasay, Metro Manila, Philippines",1871,21.476,0:00:41
+0x8640d5b99bebb619:0xe28b28c8077c64c7,"Cypress, Houston, TX, USA",1867,20.5764,0:00:39
+0x872b0898a6aa80e3:0xa2dd4aad392cb41f,"Tempe, AZ, USA",1864,17.2886,0:00:33
+0x882b268883243a77:0xdd95317585aa054b,"Vaughan, ON, Canada",1848,17.9566,0:00:34
+0x56c8917604b33f41:0x257dba5aa78468e3,"Anchorage, AK, USA",1847,15.3966,0:00:30
+0xd2465abc4e153c1:0xa648d95640b114bc,"Porto, Portugal",1827,20.2333,0:00:39
+0x38836e7d16c5cbab:0x3d44668fad986d76,"Almaty, Kazakhstan",1812,16.5678,0:00:32
+0x464c4cb15397788b:0x8c4dd7d9912ea2af,"Aarhus, Denmark",1808,17.0483,0:00:33
+0x4796c8495e18b2c1:0x971a483118e7241f,"Strasbourg, France",1798,14.2932,0:00:28
+0x14f5c49126710fd3:0xb4e0cda629ee6bb9,"Alexandria, Alexandria Governorate, Egypt",1790,14.8684,0:00:29
+0x2e708b4d3f0d024d:0x1e0432b9da5cb9f2,"Semarang, Semarang City, Central Java, Indonesia",1781,19.2521,0:00:38
+0x38ae8b0cc379e9c3:0xa5a9323b4aa5cb98,"Tashkent, Uzbekistan",1777,10.8859,0:00:22
+0x80dcdd0e689140e3:0xa77ab575604a9a39,"Irvine, CA, USA",1766,21.0297,0:00:42
+0x52b2d4cee4e9379f:0xc87291d23fda2e29,"St Paul, MN, USA",1753,18.1108,0:00:37
+0x12aebb6fec7552ff:0x406f69c2f411030,"Toulouse, France",1734,15.1736,0:00:31
+0xd604f4cf0efb06f:0xb4a351011f7f1d39,"Valencia, Spain",1730,16.5368,0:00:34
+0x8edb3f9784ded2a1:0x24f321bfabb7af40,"Kingston, Jamaica",1719,20.9577,0:00:43
+0x487d857e0c6f64cd:0xbe252b072a76191,"Newcastle upon Tyne, UK",1709,16.8702,0:00:35
+0x33bd13576170055f:0xe6da25b39082662a,"Lipa, Batangas, Philippines",1689,16.4286,0:00:35
+0x80d9390226587bd3:0x14724bafa4e62456,"Tijuana, Baja California, Mexico",1673,18.6407,0:00:40
+0x86629531b437f8f5:0xa3d3d3ca6ac89894,"Monterrey, Nuevo Leon, Mexico",1671,20.8447,0:00:44
+0x476531f5969886d1:0x400f81c823fec20,"Ljubljana, Slovenia",1670,16.2586,0:00:35
+0x89d3126152dfe5a1:0x982304a5181f8171,"Buffalo, NY, USA",1650,16.3403,0:00:35
+0x47031386764ebd6f:0xe49ee48c4b65f30e,"Bydgoszcz, Poland",1577,15.5058,0:00:35
+0x8806536d3a2019ff:0x4e0cfcb5ba484198,"Madison, WI, USA",1568,16.0773,0:00:36
+0x42dfe5e190cc4d97:0x9b3a0673e1d3e985,"Novosibirsk, Novosibirsk Oblast, Russia",1558,9.8536,0:00:22
+0x47b91760bff07a11:0x427f28131548750,"Dortmund, Germany",1539,13.3852,0:00:31
+0x47c5b72f4298bd71:0x400de5a8d1e6c10,"The Hague, Netherlands",1508,16.7678,0:00:40
+0x4745677dcb0fb5a7:0x537faf6473936749,"Timișoara, Romania",1506,14.5871,0:00:34
+0x145822cffcd270e7:0x98b73d687889fd8,"New Cairo City, Cairo Governorate, Egypt",1499,15.7761,0:00:37
+0x80c2cae84099d759:0xa1003afac42a8faa,"Long Beach, CA, USA",1499,17.5019,0:00:42
+0x47b8c2b796abf639:0x6a00e111a4ad2c9d,"Essen, Germany",1488,15.6239,0:00:37
+0x95199cd2566acb1d:0x603111a89f87e91f,"Porto Alegre, RS, Brazil",1477,13.9554,0:00:34
+0x86473147c603385b:0xf1a4808e67c3df5d,"The Woodlands, TX, USA",1475,11.9959,0:00:29
+0x14ca1582d8d45695:0x61a00555fc973392,"Bursa, Türkiye",1464,10.5369,0:00:25
+0x4b5a211407dbfac1:0x666be3a6438b2ddc,"Halifax, NS, Canada",1453,15.1673,0:00:37
+0x477fd498e951c40b:0xa2e17c015ba49441,"Bologna, Metropolitan City of Bologna, Italy",1450,13.5287,0:00:33
+0x486e02d434ec53f5:0x143406db6586670e,"Cardiff, UK",1437,15.4624,0:00:38
+0x54ae4c694e97f129:0xae19866371324a52,"Nampa, ID, USA",1437,12.4192,0:00:31
+0x80900d737b442181:0x5876f5d1044fcbd8,"Stockton, CA, USA",1421,15.0162,0:00:38
+0x8646848619463ca3:0xc969c74db6bf6ac9,"College Station, TX, USA",1413,15.0901,0:00:38
+0x47886d126418be25:0x8903f803d69c77bf,"Turin, Metropolitan City of Turin, Italy",1411,12.0647,0:00:30
+0x486c8d530e95ea3d:0x3b282cb5cef58593,"Plymouth, UK",1408,18.3272,0:00:46
+0x88fb75fc78f20659:0x4e0c6751036020bc,"Savannah, GA, USA",1399,11.607,0:00:29
+0x809940ae9292a09d:0x40c5c5ce7438f787,"Reno, NV, USA",1398,11.0495,0:00:28
+0x882bf48c03ee5105:0x9525f8e6df5f544b,"Kitchener, ON, Canada",1379,12.5344,0:00:32
+0x43c165eaa062db4b:0xd50243d7f7567f20,"Yekaterinburg, Sverdlovsk Oblast, Russia",1370,8.2165,0:00:21
+0x15577f67a0a74193:0x9deda9d2a3b16f2c,"Baghdad, Baghdad Governorate, Iraq",1363,11.8973,0:00:31
+0x7ab196f94e5408b:0xe5800ef782bde3a6,"Recife, State of Pernambuco, Brazil",1350,13.0059,0:00:34
+0x4870b151656e22b7:0x4f660f5564f0689,"Coventry, UK",1345,14.5096,0:00:38
+0xda7cd4778aa113b:0xb06c1d84f310fd3,"Casablanca, Morocco",1324,15.0019,0:00:40
+0x54867599f4ef4d3d:0x6a5024adba02fab5,"Richmond, BC, Canada",1322,15.8657,0:00:43
+0x80dcdb956c823085:0xc74f843a1f1efdbc,"Santa Ana, CA, USA",1317,14.8751,0:00:40
+0x88424429cc9ceb25:0x84f08341908c4fdd,"Lexington, KY, USA",1315,13.6539,0:00:37
+0x48738957be152909:0xa78c5a6a4cda71f0,"Southampton, UK",1312,12.8998,0:00:35
+0x89ba973a5322ca45:0xab99107fce7a1e0a,"Norfolk, VA, USA",1291,12.7618,0:00:35
+0x4cc92107b4dfda6b:0x2eb4b26fe333c419,"Laval, QC, Canada",1239,14.5195,0:00:42
+0xd5527e8f751ca81:0x796386037b397a89,"Bordeaux, France",1234,9.8409,0:00:28
+0x882bf1565ffe672b:0x5037b28c7231d90,"Waterloo, ON, Canada",1220,14.2375,0:00:42
+0x2e69f8e853d2e38d:0x301576d14feb9c0,"Tangerang, Tangerang City, Banten, Indonesia",1218,11.9141,0:00:35
+0x87badb6ad27f182d:0x9396d5bf74d33d3e,"Wichita, KS, USA",1218,10.5604,0:00:31
+0x87b692b8ddd12e8f:0xe76910c81bd96af7,"Tulsa, OK, USA",1208,9.8224,0:00:29
+0x80c28633acd51827:0x564a8fe07305d648,"Santa Clarita, CA, USA",1204,11.8469,0:00:35
+0x3396f79f47a8aadb:0x2c4be1dddb81922a,"San Fernando, Pampanga, Philippines",1200,11.7665,0:00:35
+0x487832d2390779cd:0x108063201919db15,"Nottingham, UK",1193,12.4272,0:00:37
+0x40cafb7cf639ddbb:0x7ccb80da5426f53c,"Iași, Romania",1189,12.907,0:00:39
+0x33a999fed973c41b:0x1ae9af03b1a02e2c,"Lapu-Lapu City, Cebu, Philippines",1174,12.0318,0:00:36
+0x40f04564714535b3:0xf720794f56c4beb6,"Krasnodar, Krasnodar Krai, Russia",1165,6.9322,0:00:21
+0x959f80ffc63bf7d3:0x6b321b2e355bec99,"Montevideo, Montevideo Department, Uruguay",1150,12.1405,0:00:38
+0x80857d8b28aaed03:0x71b415d535759367,"Oakland, CA, USA",1146,15.1269,0:00:47
+0x12fd337f5e7ef543:0xd671924e714a0275,"Tunis, Tunisia",1144,11.8806,0:00:37
+0x4860fffdd7d08a3b:0x2e57162cefc7c531,"Belfast, UK",1143,12.3601,0:00:38
+0x87d2a134a11f569b:0x3405f5100df35b17,"Little Rock, AR, USA",1139,10.1195,0:00:31
+0x8faca8f1dbe80363:0xaba25df1f042c10e,"Panama City, Panamá Province, Panama",1134,13.1268,0:00:41
+0x471ffc048f41971d:0x72317dcc8bf07b2c,"Białystok, Poland",1130,12.569,0:00:40
+0x716112050422ebd:0xf71c84369573db9d,"Salvador, State of Bahia, Brazil",1115,10.1723,0:00:32
+0x473add7c09109a57:0x4223c517012378e2,"Lviv, Lviv Oblast, Ukraine,",1114,11.8685,0:00:38
+0x3397b9a2777a00f9:0x6d36c8f429a12fc6,"Marikina, Metro Manila, Philippines",1104,11.5132,0:00:37
+0x882b5b8b8f729979:0x5037b28c7231bd0,"Oakville, ON, Canada",1097,12.3461,0:00:40
+0x47d0aad55133f513:0x684ca5e00e12452f,"Norwich, UK",1093,9.9649,0:00:32
+0x94c8c61de74b6325:0x17e53a6a2178c22a,"Campinas, State of São Paulo, Brazil",1086,12.827,0:00:42
+0x48758fcdbd9652c7:0xe5a533ffaa580f56,"Brighton and Hove, UK",1075,11.0864,0:00:37
+0x874d9271930bf1bf:0x1d90f12600b556ef,"Provo, UT, USA",1073,9.7543,0:00:32
+0x87694a4590f030ad:0xa9b14228b4ab4082,"Fort Collins, CO, USA",1043,8.3557,0:00:28
+0x46e72270b167d343:0x614bd1e0c7378bbc,"Kaunas, Kaunas City Municipality, Lithuania",1042,12.2793,0:00:42
+0x88e6202169bf2c2b:0x80e7795d28108d96,"Gainesville, FL, USA",1041,10.9233,0:00:37
+0x3e361d32276b3403:0xefd901ec7a5e5676,Dammam Saudi Arabia,1033,9.5558,0:00:33
+0x4797cc24518e3f45:0xb1e4fe7aa406e687,"Mannheim, Germany",1026,9.3381,0:00:32
+0x32506a09d96fc175:0x35526ebbce01e7a2,"Zamboanga, Philippines",1019,9.9952,0:00:35
+0x46dbcfd35b1e6ad3:0xb61b853ddb570d9,"Minsk, Minsk Region, Belarus",1011,8.8031,0:00:31
+0x128fad6795639515:0x4ba4b4c9d0a7e602,"Algiers, Algeria",1000,8.5473,0:00:30
+0x487742ab49b76c73:0x9a151d2a6fb49cb8,"Leicester, UK",1000,9.7263,0:00:35
+0x549e185c30bbe7e5:0xddfcc9d60b84d9b1,"Spokane, WA, USA",985,9.42,0:00:34
+0x43c592cb104a3a8d:0xef224a2a6d1711bf,"Chelyabinsk, Chelyabinsk Oblast, Russia",973,6.0702,0:00:22
+0x46e2792d071419c7:0x106a8126cf54c20f,"Olsztyn, Poland",961,10.285,0:00:38
+0x2e69fab10419c095:0x8706481c2c4aafe4,"South Tangerang, South Tangerang City, Banten, Indonesia",960,9.5394,0:00:35
+0x1458469235579697:0x4e91d61f9878fc52,"Giza, El Omraniya, Giza Governorate, Egypt",944,7.8837,0:00:30
+0x4151d5f9ee033251:0x28d3c0cf849657aa,"Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",944,6.0906,0:00:23
+0x8796be59ca561265:0x633a859b1fd5deb9,"Lincoln, NE, USA",941,9.2818,0:00:35
+0x14c39aaeddadadc1:0x95c69f73f9e32e33,"Antalya, Türkiye",928,6.9048,0:00:26
+0x31da12c6d36b3a27:0xd5f4b21db593d4f5,"Johor Bahru, Johor, Malaysia",921,8.9775,0:00:35
+0x415ead2b7caccd99:0x7fcb77b9b5ad8c65,"Kazan, Republic of Tatarstan, Russia",921,5.5137,0:00:21
+0x48d674b9eedcedc3:0xec912ca230d26071,"Reykjavík, Iceland",904,10.0328,0:00:39
+0x1350310470fac5db:0x40092af10653720,"Tiranë, Albania",903,11.3538,0:00:45
+0x88185460bb502815:0xa593aacb1bd3a8d0,"Grand Rapids, MI, USA",901,7.5449,0:00:30
+0x8428ae61a9704c13:0xafd8a5d47ed002ac,"Zapopan, Jalisco, Mexico",897,9.9549,0:00:39
+0x872ba90de045ae43:0x6453ae977fd9ef7e,"Gilbert, AZ, USA",895,7.7453,0:00:31
+0x487663427e9e92a9:0xb16ca352b90b0206,"Slough, UK",892,7.3304,0:00:29
+0x864c21da13c59513:0x62aa036489cd602b,"Plano, TX, USA",890,9.0898,0:00:36
+0x12c9bf4344da5333:0x40819a5fd970220,"Marseille, France",881,6.5527,0:00:26
+0x133b0866db7afaeb:0xd23a43cc658cb87e,"Naples, Metropolitan City of Naples, Italy",876,7.5253,0:00:30
+0x6bd5f029558a6497:0x400eef17f2081b0,"Townsville QLD, Australia",876,7.213,0:00:29
+0x3e5f5f5fede7964b:0x2a830aa19c1f6d89,Sharjah - United Arab Emirates,870,10.759,0:00:44
+0x478c293ecd89a7e5:0xeb173fc9cae2ee5e,"Lausanne, Switzerland",870,8.7441,0:00:36
+0x86fe12add37ddd39:0x1af0042922e84287,"Lubbock, TX, USA",869,7.564,0:00:31
+0x8428b18cb52fd39b:0xd63d9302bf865750,"Guadalajara, Jalisco, Mexico",867,7.8631,0:00:32
+0x314219c792252a13:0xfc14e3a044436487,"Da Nang, Hải Châu District, Da Nang, Vietnam",862,8.1112,0:00:33
+0x8815e4ddff22814b:0x80077b147642f793,"Fort Wayne, IN, USA",855,10.1102,0:00:42
+0x926c1bc8b37647b7:0x2b485c9ff765a9cc,"Manaus, State of Amazonas, Brazil",855,10.0792,0:00:42
+0x2dd2409b0e5e80db:0xe27334e8ccb9374a,"Denpasar, Denpasar City, Bali, Indonesia",848,8.7174,0:00:37
+0x47c6d91b5579c39f:0xf39ad2648164b998,"Eindhoven, Netherlands",842,7.0323,0:00:30
+0x8589a180655c3345:0x4a72c7815b867b25,"Guatemala City, Guatemala",839,8.6462,0:00:37
+0x3397d02cc7b1e345:0x51fdbee47cdaf013,"Muntinlupa, Metro Manila, Philippines",838,9.8788,0:00:42
+0x424580c47db54609:0x97f9148dddb19228,"Astana, Kazakhstan",837,6.856,0:00:29
+0x3753f40dc94123a7:0xd0a1263c6c40c8c7,"Agartala, Tripura, India",834,8.0467,0:00:34
+0x89ace471120f66f1:0xe17ada898a46f27e,"Durham, NC, USA",833,9.6701,0:00:41
+0x31fb0784258cbf11:0xd37257591ab17e72,"Kuching, Sarawak, Malaysia",832,8.0861,0:00:34
+0x882b2a4936291733:0x5201760ad6b142ed,"Richmond Hill, ON, Canada",832,9.814,0:00:42
+0x132a56a680d2d6ad:0x93d57917efc72a03,"Florence, Metropolitan City of Florence, Italy",827,8.0215,0:00:34
+0x104e745f4cd62fd9:0x53bd17b4a20ea12b,"Abuja, Federal Capital Territory, Nigeria",821,10.8039,0:00:47
+0x40e3c777c3b4b6ef:0x8248b451e48b4d04,"Rostov-on-Don, Rostov Oblast, Russia",821,6.2142,0:00:27
+0x3397d0d6c63526c5:0xd6e9ae89984e851e,"San Pedro, Laguna, Philippines",812,8.9028,0:00:39
+0x5495af63c85914f9:0x8456d5112c91e3f3,"Vancouver, WA, USA",801,7.7963,0:00:35
+0x872a55595c22b693:0x386ce373138cfdf0,"Chandler, AZ, USA",800,7.5517,0:00:33
+0x89b111095799c9ed:0xbfd83e6de2423cc5,"Richmond, VA, USA",777,8.5676,0:00:39
+0x87cf62f745c8983f:0x6bfd6cb31e690da0,"Springfield, MO, USA",774,6.5887,0:00:30
+0x882b9ad0c3a9fb6b:0x5037b28c7231b60,"Guelph, ON, Canada",769,8.0108,0:00:37
+0x47b128100ceee335:0xc2e8885cf937df51,"Bremen, Germany",744,6.4053,0:00:30
+0x808fb7815c08c193:0xe475a47ca3c0bfc0,"Santa Clara, CA, USA",743,8.5689,0:00:41
+0x3397c835c77b9b79:0xdc4947c8b9d237f8,"Mandaluyong, Metro Manila, Philippines",737,9.3558,0:00:45
+0x54c119b0ac501919:0x57ec61894a43894d,"Eugene, OR, USA",735,7.3061,0:00:35
+0x80d94e4565c3aacf:0x46ccb8734b8f2bd3,"Chula Vista, CA, USA",732,9.4432,0:00:46
+0x808fbf46b7e8caf7:0x8ada313b89d888d4,"Fremont, CA, USA",730,7.6839,0:00:37
+0x3397d9b37741cb8b:0x6190465ce35ff477,"Santa Rosa, Laguna, Philippines",727,7.1883,0:00:35
+0x8fa0e342c50d15c5:0xe6746a6a9f11b882,"San José Province, San José, Costa Rica",719,6.4546,0:00:32
+0x4cce1a7e0babee53:0x7cedf5701a140956,"Gatineau, QC, Canada",718,6.967,0:00:34
+0x31cdb4858700458b:0x450f0f6588f66ff,"Puchong, Selangor, Malaysia",714,8.4667,0:00:42
+0x4cd2ab0674408ea9:0x76a5497715d6d9ea,"Kingston, ON, Canada",709,7.9122,0:00:40
+0x86249c4364c5d89b:0xc94a752492f7ff13,"Lafayette, LA, USA",707,5.9939,0:00:30
+0x40307d6bd6211cf9:0x343f6b5e7ae56c6b,"Baku, Azerbaijan",699,5.8754,0:00:30
+0xd126c1114be6291:0x34f018621cfe5648,"Seville, Spain",698,7.1709,0:00:36
+0x47b227d14aa4a89f:0x4248963c65836b0,"Norderstedt, Germany",696,7.8069,0:00:40
+0x2dd62822063dc2fb:0x78879446481a4da2,"Malang, Malang City, East Java, Indonesia",694,6.1439,0:00:31
+0x864c4ca0c088b1d1:0x724474cb4814fb1b,"Denton, TX, USA",693,8.6777,0:00:45
+0x2e69ec0828bcde9f:0x301576d150524f0,"Depok, Depok City, West Java, Indonesia",690,7.6661,0:00:39
+0x303131cc1c3eb2fd:0x23d431c8a6908262,"Medan, Medan City, North Sumatra, Indonesia",688,6.1258,0:00:32
+0x88626b67cda2898d:0x9a2c7e89c804566b,"Huntsville, AL, USA",686,6.0999,0:00:32
+0x89d9f39bbf979a0d:0xd50ce2d7ad9545,"Syracuse, NY, USA",681,6.8986,0:00:36
+0x4cc91b69886574f9:0x1c63438a7316da2e,"Longueuil, QC, Canada",680,6.3394,0:00:33
+0x89d51d21ccd37533:0xdd8ceff2f844fcbf,"Oshawa, ON, Canada",679,7.5592,0:00:40
+0x935ef6bd58d80867:0xef692bad20d2678e,"Goiânia, State of Goiás, Brazil",679,6.484,0:00:34
+0x47bd72bf3e51601f:0xff8e57c82e39874f,"Dreieich, Germany",675,5.0294,0:00:26
+0x88ec8a5187124b53:0xebee077ad4fdb1f8,"Tallahassee, FL, USA",672,6.6052,0:00:35
+0x47b9bac399f760df:0x21eb4ca77bf328eb,"Münster, Germany",660,6.9877,0:00:38
+0x89de0a34cc4ffb4b:0xe1a16312a0e728c4,"Albany, NY, USA",658,5.4169,0:00:29
+0x323b6995e6a6aba7:0xf182336a16947a7e,"Kota Kinabalu, Sabah, Malaysia",655,5.337,0:00:29
+0x3397c71b30c82813:0xf5e02302ae65c580,"Taytay,  Rizal, Philippines",653,7.4822,0:00:41
+0x33972921652f4ccb:0x3ddca086bad37111,"Cabanatuan City, Nueva Ecija, Philippines",652,6.9717,0:00:38
+0x864c3c1abc09943d:0xcad371b035c8fea2,"Frisco, TX, USA",648,7.0901,0:00:39
+0x549054ee2b659567:0x62219c07ebb09e82,"Tacoma, WA, USA",645,6.4773,0:00:36
+0x89baa57a802f6d99:0x4c7b1b1790710b79,"Chesapeake, VA, USA",640,6.1916,0:00:34
+0x39f29937c52d4f05:0x831a0e05f607b270,"Patna, Bihar, India",638,6.0833,0:00:34
+0x39eb198a307baabf:0xb5137c1bf18db1ea,"Kathmandu , Nepal",632,5.913,0:00:33
+0x883cb00dd4431f33:0xdb09f94686c8b5e2,"Ann Arbor, MI, USA",631,6.947,0:00:39
+0x883b2ac1b54f886b:0xb66cd49527fcdc51,"Windsor, ON, Canada",629,7.3469,0:00:42
+0x2dbee329d96c4671:0x3030bfbcaf770b0,"Makassar, Makassar City, South Sulawesi, Indonesia",626,5.5718,0:00:32
+0x31cdcbc5df56418f:0xb186679d7d069c0f,"Kajang, Selangor, Malaysia",626,6.791,0:00:39
+0x91d59a4002427c9f:0x44b991e158ef5572,"Quito, Ecuador",625,4.8735,0:00:28
+0x479ea2c53a212b29:0x41e48add78be7a0,"Augsburg, Germany",619,4.7191,0:00:27
+0x4844900891beb961:0xa00c7a99731c5d0,"Cork, Ireland",619,5.7997,0:00:33
+0x487a11520fae440d:0xf1cdcd2f02caee04,"Stoke-on-Trent, UK",619,6.2425,0:00:36
+0x864c125aa0745495:0xaa290ada6420a624,"McKinney, TX, USA",617,6.4233,0:00:37
+0x6d6d227487a63621:0x500ef6143a29903,"Hamilton, New Zealand",615,5.7188,0:00:33
+0x8f56715cab450d17:0x5dfc155715abeb09,"Merida, Yucatan, Mexico",611,6.3067,0:00:37
+0x5495082476f88863:0x10e0cf158aacbd08,"Beaverton, OR, USA",608,5.4306,0:00:32
+0x89b7b69d7ba7a70f:0xf8cf6fc845f6b093,"Arlington, VA, USA",606,6.5742,0:00:39
+0x86685f806192d2b3:0xaed15093890e908f,"Corpus Christi, TX, USA",605,5.9672,0:00:35
+0x48742078d93d3db7:0x2ae19f7fcefa7994,"Reading, UK",599,5.8487,0:00:35
+0x47970648a2e07809:0xb6fc55734cb7ee7f,"Karlsruhe, Germany",598,5.0323,0:00:30
+0x4884054c1fd77549:0xe8bb05da5cf4c472,"Aberdeen, UK",597,6.1746,0:00:37
+0x872b23272d679d37:0x9f14430b838d3b54,"Glendale, AZ, USA",596,5.7387,0:00:34
+0x8864ce402ffea7e5:0xab41b10fe905271e,"Clarksville, TN, USA",591,4.5637,0:00:27
+0x85cfc0bd5ebc7a3b:0x48a6461de494ad95,"Puebla, Mexico",589,4.4666,0:00:27
+0x864c2c75c10c5065:0xf1a21a5dca2b198d,"Lewisville, TX, USA",589,5.0712,0:00:30
+0x33a99889680ceefd:0xa9f911a1f5dda572,"Mandaue City, Cebu, Philippines",579,7.084,0:00:44
+0x2e698c6900964f69:0xd00495351896398,"Bekasi, West Java, Indonesia",578,5.4935,0:00:34
+0x9432985f478f5b69:0xb0a24f9a5366b092,"Córdoba, Córdoba Province, Argentina",578,6.0805,0:00:37
+0x85d35b8fdc5b9255:0x97b094aa561b832f,"Santiago de Querétaro, Qro., Mexico",575,4.7737,0:00:29
+0x4711586a3124e79d:0x891973fb9f9e9144,"Ostrava, Czechia",568,5.0954,0:00:32
+0x872b50449c4f72a3:0x3d108204ce52db2,"Surprise, AZ, USA",568,5.4475,0:00:34
+0x3396c63f4ab68e0d:0x13f9415d7a5bfd4b,"Tarlac City, Tarlac, Philippines",566,6.7017,0:00:42
+0x92a461af84756ce1:0x570d540215864c35,"Belém, State of Pará, Brazil",565,6.9203,0:00:44
+0x89b07b82704d56d9:0xec7e55ec03c8cb1b,"Newport News, VA, USA",564,5.7015,0:00:36
+0x89d6b3059614b353:0x5a001ffc4125e61e,"Rochester, NY, USA",562,8.6265,0:00:55
+0x47bee19f7ccbda49:0x86dbf8c6685c9617,"Bonn, Germany",561,6.745,0:00:43
+0x87b263b67f93eee7:0x445b233faba85cf8,"Norman, OK, USA",556,5.1282,0:00:33
+0x809ab8cbe0a2f839:0xca0ceb60d31c08e8,"Elk Grove, CA, USA",555,4.4102,0:00:28
+0x3e45c534ffdce87f:0x44d9319f78cfd4b1,"Doha, Qatar",551,6.5571,0:00:42
+0x80c34b8f224409c3:0x78cbf3c11829549b,"Fontana, CA, USA",550,5.5868,0:00:36
+0x325579b328c9540d:0xe6e208aba2f0d03b,"Iligan City, Lanao del Norte, Philippines",549,5.1205,0:00:33
+0x3397d70cc905e489:0xdbb7938dd87f5563,"Biñan, Laguna, Philippines",548,6.2927,0:00:41
+0x40dbe303fd08468f:0xa1cf3d5f2c11aba,"Dnipro, Dnipropetrovsk Oblast, Ukraine,",547,3.9674,0:00:26
+0x537d8cb6e3c730b3:0x4ef8e53ddab4c4f7,"Kelowna, BC, Canada",546,5.4492,0:00:35
+0x80c3537de2fdb8f3:0x2867c6788c87c28d,"San Bernardino, CA, USA",544,5.0523,0:00:33
+0x536e864af15acd23:0x1c5c78e36295beae,"Lethbridge, AB, Canada",540,4.1021,0:00:27
+0x40a4538baaf3d7a1:0x5727941c71a58b7c,"Varna, Bulgaria",536,5.7225,0:00:38
+0x4805ee81f0a8aead:0x40d37521e0ded30,"Nantes, France",536,4.0149,0:00:26
+0x151f17215880a78f:0x729182bae99836b4,"Beirut, Lebanon",533,5.2413,0:00:35
+0x1e9574b0839fe795:0x4443ba51b0acaf0d,"Randburg, South Africa",533,3.8324,0:00:25
+0x3396711b9c32216b:0xa080c3d36f2963a7,"Olongapo, Zambales, Philippines",533,5.8439,0:00:39
+0x47c83286b462cca7:0xcb4b5086f9a6c8dc,"Groningen, Netherlands",530,6.5141,0:00:44
+0x399bfd991f32b16b:0x93ccba8909978be7,"Lucknow, Uttar Pradesh, India",529,4.352,0:00:29
+0x88fe7a42dca82477:0x35faf7e0aee1ec6b,"Charleston, SC, USA",529,4.0977,0:00:27
+0x8644d1a4ed2d22e7:0x7217259ede04b10,"Round Rock, TX, USA",527,4.9205,0:00:33
+0x2e7a16627ad11ab1:0xe7fe4e0454bc3095,"Surakarta, Surakarta City, Central Java, Indonesia",526,4.3423,0:00:29
+0xaa6e0a93f4b9cfa7:0x403c94dd0dde710,"Hobart TAS, Australia",526,3.8321,0:00:26
+0x467c4e1b68add7f9:0x4034506de8c8560,"Umeå, Sweden",524,6.0584,0:00:41
+0x8853193f38c77b79:0x93b9c49478be12c8,"Greensboro, NC, USA",524,7.2885,0:00:50
+0x32f79cf31aca6663:0xcc2a0e32287d6748,"General Santos City, South Cotabato, Philippines",522,6.0857,0:00:41
+0x3a1909d2d5170aa5:0xfc580e2b68b33fa8,"Bhubaneswar, Odisha, India",522,4.0612,0:00:28
+0x89ab134f42924a23:0xa3ab9e7512763b9b,"Fayetteville, NC, USA",517,7.4415,0:00:51
+0x1e957b0df5954b27:0x474f6dba7062227f,"Centurion, South Africa",514,3.8864,0:00:27
+0x47c66f4339d32d37:0xd6c8fc4c19af4ae9,"Utrecht, Netherlands",511,4.8055,0:00:33
+0x33bd5c96860a894b:0xfa9e0f05004f4aca,"San Pablo City, Laguna, Philippines",510,4.6429,0:00:32
+0x475b10613de93455:0xb6f7d683724fe28,"Novi Sad, Serbia",505,6.4387,0:00:45
+0x4710b5c54e2ca8af:0x854f0d4d1a178236,"Częstochowa, Poland",504,6.4431,0:00:46
+0x47b2560d8fee97ad:0x4248963c6580320,"Kiel, Germany",502,4.7789,0:00:34
+0x548678c85ac25e9f:0x595768762eee76cf,"Coquitlam, BC, Canada",501,4.3149,0:00:31
+0x4878c340e19865f1:0x4774ab898a54e4d1,"York, UK",497,5.6642,0:00:41
+0x465fcbfb8532ab8d:0xaa4fe90a85820807,"Uppsala, Sweden",496,6.2586,0:00:45
+0x33bd4b578caf4ccd:0x2be1e905c862fe1,"Lucena,  Quezon, Philippines",493,4.8259,0:00:35
+0x3fcf7621ccb0f409:0xd67b8473125207f7,"Salmiya, Kuwait",492,4.4951,0:00:32
+0x866576324d9637df:0x2f1d39a9b52c0eb8,"McAllen, TX, USA",489,4.0007,0:00:29
+0x3391a3aef768cde3:0x58d076983f455a79,"La Trinidad, Benguet, Philippines",488,5.7749,0:00:42
+0x31cc4cd011ec8e15:0x4bf9f3f70226e7d3,"Subang Jaya, Selangor, Malaysia",483,4.9952,0:00:37
+0x5cd7afc9a1ff37e3:0xd597e1468fd647ff,"Krasnoyarsk, Krasnoyarsk Krai, Russia",482,2.8131,0:00:21
+0x6b911a472b5d60b7:0x302a35af3deaf70,"Gold Coast QLD, Australia",482,5.034,0:00:37
+0x135415a58c9aa2a5:0xb2ed88c260872020,"Skopje, North Macedonia",473,5.4626,0:00:41
+0x3397b3f2c352666b:0x9af8d2dfa797d58,"Valenzuela, Metro Manila, Philippines",465,4.2924,0:00:33
+0x80dca109db19e29b:0xc3fab215a09b3f2c,"Moreno Valley, CA, USA",464,4.7222,0:00:36
+0x38dfbfd07891722f:0x6059515c3bdb02b6,"Islamabad, Pakistan",463,3.7015,0:00:28
+0x47d85d89f32a012d:0x63a320e1a35e3d21,"Cambridge, UK",459,6.1124,0:00:47
+0x5374542947119299:0x500a390441644b0,"Red Deer, AB, Canada",457,3.5846,0:00:28
+0x473cfae3cc14d449:0xd2240d31b33eb2ed,"Rzeszów, Poland",456,3.671,0:00:28
+0x40b35b862aa214f1:0x6cf5f2ef54391e0f,"Brașov, Romania",455,4.9238,0:00:38
+0x47c0997cb08a191d:0x63a30eae0b0e444f,"Aachen, Germany",454,5.6715,0:00:44
+0x88d9a6172bfeddb9:0x37be1741259463eb,"Miami Beach, FL, USA",454,3.442,0:00:27
+0x89ac9265aefc41d7:0xe1bf2f033fa3ab3e,"Morrisville, NC, USA",454,7.7243,0:01:01
+0x54bffefcbc4b9c63:0xf93429e08f0357c2,"Salem, OR, USA",453,3.288,0:00:26
+0x80c3645a63ddd279:0xd95115925f43476,"Victorville, CA, USA",452,3.9563,0:00:31
+0x80dd283f9d1dcd8d:0x3909622bd0f8b3a,"Garden Grove, CA, USA",447,4.8846,0:00:39
+0x9527394eb2c632d7:0x81bc550b6a04c746,"Florianópolis, State of Santa Catarina, Brazil",442,6.1754,0:00:50
+Showing top 500 results
