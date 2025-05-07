@@ -20,7 +20,6 @@ content['Average view duration'] = pd.to_timedelta(content['Average view duratio
 content['Impressions click-through rate (%)'] = content['Impressions click-through rate (%)'] / 100
 content.rename(columns={'Impressions click-through rate (%)': 'Impressions CTR'}, inplace=True)
 
-
 date['Date'] = pd.to_datetime(date['Date'])
 date['Watch time (hours)'] = pd.to_timedelta(date['Watch time (hours)'], unit='h')
 date['Average view duration'] = pd.to_timedelta(date['Average view duration'])
@@ -30,5 +29,7 @@ cities['Average view duration'] = pd.to_timedelta(cities['Average view duration'
 
 source['Watch time (hours)'] = pd.to_timedelta(source['Watch time (hours)'], unit='h')
 source['Average view duration'] = pd.to_timedelta(source['Average view duration'])
+source['Impressions click-through rate (%)'] = source['Impressions click-through rate (%)'] / 100
+source.rename(columns={'Impressions click-through rate (%)': 'Impressions CTR'}, inplace=True)
 
 print(content.head())
